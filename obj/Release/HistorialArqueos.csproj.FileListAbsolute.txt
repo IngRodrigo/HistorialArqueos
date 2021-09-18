@@ -1,0 +1,7 @@
+C:\Users\rodsanchez\source\repos\HistorialArqueos\bin\Release\HistorialArqueos.exe.config
+C:\Users\rodsanchez\source\repos\HistorialArqueos\bin\Release\HistorialArqueos.exe
+C:\Users\rodsanchez\source\repos\HistorialArqueos\bin\Release\HistorialArqueos.pdb
+C:\Users\rodsanchez\source\repos\HistorialArqueos\obj\Release\HistorialArqueos.csproj.AssemblyReference.cache
+C:\Users\rodsanchez\source\repos\HistorialArqueos\obj\Release\HistorialArqueos.csproj.CoreCompileInputs.cache
+C:\Users\rodsanchez\source\repos\HistorialArqueos\obj\Release\HistorialArqueos.exe
+C:\Users\rodsanchez\source\repos\HistorialArqueos\obj\Release\HistorialArqueos.pdb
